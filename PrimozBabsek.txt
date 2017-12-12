@@ -1,3 +1,4 @@
+English:
 I am Primoz, fullstack web developer. Although I am most passionate for pure coding in Javascript and PHP rest assured I know HTML and CSS. 
 I am originally from Slovenia but recently relocated to Austria, Vienna.
 
@@ -6,3 +7,14 @@ I used to play poker profesionally but passion for coding just grew to big and I
 I am well knowleagable in latest technologies as well as those used for years.
 
 In my free time I just learn new technologies for coding, do sports or explore the beautiful city of Vienna.
+
+
+German:
+Ich bin Primoz, Fullstack-Webdeveloper. Obwohl meine größte Leidenschaft bei Javascript und PHP liegt, weiß ich sehr wohl auch mt HTML und CSS umzugehen.
+Ich stamme aus Slovenien, aber bin kürzlich nach Österrein übersiedelt und wohne jetzt in Wien.
+
+Ich habe ursprünglich profesionell Poker gespielt, aber die Leidenschaft für das Programmieren wurde größer und größer, so kam es dass ich hier bin.
+
+Ich kenne mich sehr gut in den neuesten, als auch altbewerten Technologiien aus.
+
+In meiner Freizeit lerne ich gerne immer neue Technologien zum Programmieren, mache sport oder erkunde die wunderschöne Stadt Wien. 
