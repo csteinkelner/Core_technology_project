@@ -11,7 +11,7 @@ In my free time I just learn new technologies for coding, do sports or explore t
 
 German:
 Ich bin Primoz, Fullstack-Webdeveloper. Obwohl meine größte Leidenschaft bei Javascript und PHP liegt, weiß ich sehr wohl auch mt HTML und CSS umzugehen.
-Ich stamme aus Slovenien, aber bin kürzlich nach Österrein übersiedelt und wohne jetzt in Wien.
+Ich stamme aus Slovenien, aber bin kürzlich nach Österreich übersiedelt und Wohne jetzt in Wien.
 
 Ich habe ursprünglich profesionell Poker gespielt, aber die Leidenschaft für das Programmieren wurde größer und größer, so kam es dass ich hier bin.
 
@@ -27,3 +27,15 @@ Bil sem profesionalen igralec pokra nato pa je strast do programiranja prevladal
 
 V programiranju so mi zelo dobro poznane tako najnovejse tehnologije kot tiste, ki se uporabljajo ze nekaj casa.
 V prostem casu se z veseljem ucim vse kar je novega v programiranju, rad pa obiscem tudi fitnes in raziskujem arhitekturne lepote DUnaja.
+
+Spanish:
+Hola me llamo Primoz,
+Revelador de Paginas de Diseno.
+Aunque mi grande Pasion es Javascript
+y PHP, se exactamente que los programas HTML y CSS tambien puedo revelarlos.
+
+He nacido en Slovenia y en mi Pais he trabajado de jugador de cartas de Poker,pero la pasion der Revelar Programas siempre ha sido grande,bastante grande que todo lo demas, y por eso estoy estoy aqui.
+
+Tengo mucha experiencia en la mas nueva tegnologia de programas.
+
+En mi tiempo libre practico con mucho gusto nuevos programas,para despues poder revelarlos,me gusta hacer mucho deporte y me gusta descubrir la maravillosa Ciudad de Viena. 
