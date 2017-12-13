@@ -18,3 +18,12 @@ Ich habe ursprünglich profesionell Poker gespielt, aber die Leidenschaft für d
 Ich kenne mich sehr gut in den neuesten, als auch altbewerten Technologiien aus.
 
 In meiner Freizeit lerne ich gerne immer neue Technologien zum Programmieren, mache sport oder erkunde die wunderschöne Stadt Wien. 
+
+Slovenian:
+Pozdravljen! Sem Primoz in sem full stack developer. Kljub temu, da me najbolj privlaci programiranje v JavaScript in PHP jeziku imam dobro znanje tudi v HTML in CSS.
+
+Sem iz Slovenije ampak pred kratkim sem se preselil v Avstrijo, na Dunaj.
+Bil sem profesionalen igralec pokra nato pa je strast do programiranja prevladala, zato prakticno dandanes samo programiram.
+
+V programiranju so mi zelo dobro poznane tako najnovejse tehnologije kot tiste, ki se uporabljajo ze nekaj casa.
+V prostem casu se z veseljem ucim vse kar je novega v programiranju, rad pa obiscem tudi fitnes in raziskujem arhitekturne lepote DUnaja.
