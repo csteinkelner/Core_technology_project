@@ -9,8 +9,13 @@ header{
 	width: 100%;
 }
 #home img{
-	width: 10%;
+	width: 8%;
+    float: left;
+    margin-left: 4%;
+    margin-top: 5%;
+    /*margin-top: 3%;*/
 }
+
 body{
     width: 100%;
     min-width: 365px;
@@ -44,19 +49,20 @@ body{
     box-shadow: 0px 20px 100px gray;
 }
 
-nav h1{
+/*nav h1{
     float: left;
     color: white;
     margin-left: 50px;
     font-size: 30px;
     font-family:serif;
-}
+}*/
 nav .menu { 
 	position: absolute;
-	top: 0px;
-    right: 0px;
-    margin-right: 50px;
-    margin-top: 15px;
+	top: 50%;
+    left: 4%;
+   /* margin-right: ;*/
+    /*margin-top: 31%;*/
+
     
     
 }
@@ -76,6 +82,7 @@ nav .menu a{
 }
 .flags{
 	width: 50px;
+
 }
 footer{
     width: 100%;
