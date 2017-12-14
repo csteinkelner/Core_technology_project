@@ -1,9 +1,9 @@
 document.getElementById("button1").onclick = function () {
-        location.href = "sub_page_CST_E.html";
+        location.href = "http://www.codefactory.academy/cornelia-steinkelner/sub_page_CST_E.html";
     }
 
 document.getElementById("button2").onclick = function () {
-        location.href = "sub_page_PB.html";
+        location.href = "http://www.codefactory.academy/primoz-babsek/";
     }
 
 
