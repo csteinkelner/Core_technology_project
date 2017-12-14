@@ -1,5 +1,5 @@
 document.getElementById("button1").onclick = function () {
-        location.href = "sub_page_CST_Slo.html";
+        location.href = "http://www.codefactory.academy/cornelia-steinkelner/sub_page_CST_Slo.html";
     }
 
 document.getElementById("button2").onclick = function () {
