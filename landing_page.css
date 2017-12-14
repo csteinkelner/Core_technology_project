@@ -34,7 +34,7 @@ nav{
     float: left;
     width: 100%;
     height: 100px; 
-    margin-bottom: 5%;
+    margin-bottom: 8%;
 }
 .flags{
 	width: 50px;
@@ -102,21 +102,13 @@ nav .menu a{
     clear: both;
 }
 
-.header{
-    position: absolute;
-    top: 200px;
-    width: 100%;
-    font-size: 30px;
-    font-family: sans-serif;
-}
-
 footer{
     width: 100%;
     height: 80px;
     font-size: 1.7em;
 	position: absolute;
 	bottom: 0;
-	margin-bottom: -10%;
+	margin-bottom: -5%;
 }
 .copy{
     text-align: center;
@@ -226,3 +218,7 @@ button{
 	font-size: 1em;
 }
 }
+/* h2{
+	font-size: 2em;
+	margin-top: 5%;
+} */
