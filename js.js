@@ -35,9 +35,10 @@ var notChosen = "notchosen.png";
 document.getElementById("img1").src="Cornelia_.jpg";
 btn1.addEventListener("mouseover", function(){
 	
-	img2.src = "notchosen.png";
-	img3.src = "notchosen.png";
-	img4.src = "notchosen.png";
+	img1.src = "Chappy.jpg";
+	img2.src = "Psad.jpg";
+	img3.src = "Qsad.jpg";
+	img4.src = "Lsad.jpg";
 
 	btn1.addEventListener("mouseout", function(){
 		img1.src = "Cornelia_.jpg";
@@ -49,9 +50,10 @@ btn1.addEventListener("mouseover", function(){
 
 
 btn2.addEventListener("mouseover", function(){
-	img1.src = "notchosen.png";
-	img3.src = "notchosen.png";
-	img4.src = "notchosen.png";
+	img1.src = "Csad.jpg";
+	img2.src = "Phappy.jpg";
+	img3.src = "Qsad.jpg";
+	img4.src = "Lsad.jpg";
 
 	btn2.addEventListener("mouseout", function(){
 		img1.src = "Cornelia_.jpg";
@@ -63,9 +65,10 @@ btn2.addEventListener("mouseover", function(){
 
 
 btn3.addEventListener("mouseover", function(){
-	img1.src = "notchosen.png";
-	img2.src = "notchosen.png";
-	img4.src = "notchosen.png";
+	img1.src = "Csad.jpg";
+	img2.src = "Psad.jpg";
+	img3.src = "Qhappy.jpg";
+	img4.src = "Lsad.jpg";
 
 	btn3.addEventListener("mouseout", function(){
 		img1.src = "Cornelia_.jpg";
@@ -77,9 +80,10 @@ btn3.addEventListener("mouseover", function(){
 
 
 btn4.addEventListener("mouseover", function(){
-	img1.src = "notchosen.png";
-	img2.src = "notchosen.png";
-	img3.src = "notchosen.png";
+	img1.src = "Csad.jpg";
+	img2.src = "Psad.jpg";
+	img3.src = "Qsad.jpg";
+	img4.src = "Lhappy.jpg";
 
 	btn4.addEventListener("mouseout", function(){
 		img1.src = "Cornelia_.jpg";
